@@ -1,3 +1,3 @@
 # hello-world
 start with learning
-right now
+Now I start to learn about this world!
